@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/storypirates" rel="self" type="application/rss+xml"/>
+    <title>Story Pirates</title>
+    <link>http://www.storypirates.com/podcast</link>
+    <language>en</language>
+    <copyright></copyright>
+    <description>The award-winning Story Pirates Podcast takes stories written by kids and turns them into sketch comedy and songs. Made up of talented comedians, songwriters, and frequent celebrity guests, the Story Pirates inspire kids to create, bringing laughter to kids and grownups of all ages with hilarious sketches, catchy original songs from all genres, and interviews with the creative geniuses behind the stories… kids! </description>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/e99fad86-c3ef-11e7-a558-0f40e9230d80/image/StoryPirates_ShowArt_3000x3000.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Story Pirates</title>
+      <link>http://www.storypirates.com/podcast</link>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater.</itunes:subtitle>
+    <itunes:author>Story Pirates</itunes:author>
+    <itunes:summary>The award-winning Story Pirates Podcast takes stories written by kids and turns them into sketch comedy and songs. Made up of talented comedians, songwriters, and frequent celebrity guests, the Story Pirates inspire kids to create, bringing laughter to kids and grownups of all ages with hilarious sketches, catchy original songs from all genres, and interviews with the creative geniuses behind the stories… kids! </itunes:summary>
+    <content:encoded>
+      <![CDATA[<p>The award-winning Story Pirates Podcast takes stories written by kids and turns them into sketch comedy and songs. Made up of talented comedians, songwriters, and frequent celebrity guests, the Story Pirates inspire kids to create, bringing laughter to kids and grownups of all ages with hilarious sketches, catchy original songs from all genres, and interviews with the creative geniuses behind the stories… kids! </p>]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Story Pirates</itunes:name>
+      <itunes:email>lee@storypirates.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/e99fad86-c3ef-11e7-a558-0f40e9230d80/image/StoryPirates_ShowArt_3000x3000.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:category text="Kids &amp; Family">
+    </itunes:category>
+    <itunes:category text="Comedy">
+    </itunes:category>
+    <itunes:category text="Education">
+    </itunes:category>
+    <item>
+      <title>The Early Years: Dolly Magic Machine</title>
+      <description>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Wed, 27 Nov 2013 11:00:00 -0000</pubDate>
+      <itunes:title>The Early Years: Dolly Magic Machine</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Story Pirates</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/f1e9db7e-c3ef-11e7-9590-633cda1f18a9/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson</itunes:subtitle>
+      <itunes:summary>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>913</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c018339e42d8cff42afaa9eec9b73410]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT8144425143.mp3?updated=1510675186" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Early Years: Pluto And The Pop Rocks</title>
+      <description>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Fri, 15 Nov 2013 11:00:00 -0000</pubDate>
+      <itunes:title>The Early Years: Pluto And The Pop Rocks</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Story Pirates</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/f1d49c50-c3ef-11e7-9590-cf65de92093a/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor</itunes:subtitle>
+      <itunes:summary>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>813</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[71dae57f6f9674c7c37f7004c862edc6]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT7814310439.mp3?updated=1510675160" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Early Years: The Ghost’s New Friend</title>
+      <description>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Wed, 30 Oct 2013 06:00:00 -0000</pubDate>
+      <itunes:title>The Early Years: The Ghost’s New Friend</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Story Pirates</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/f214852c-c3ef-11e7-9590-eb81b84bad25/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>By Alyssa Mazak! </itunes:subtitle>
+      <itunes:summary>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>768</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[845da6fe39a3eb43edcfa3e8bcc18227]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT2865987292.mp3?updated=1510675059" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Early Years: Trash Day</title>
+      <description>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Thu, 17 Oct 2013 06:00:00 -0000</pubDate>
+      <itunes:title>The Early Years: Trash Day</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Story Pirates</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/f1fe6e2c-c3ef-11e7-9590-b302cd7575cc/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Have you ever wondered about the origins of Trash Day?</itunes:subtitle>
+      <itunes:summary>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>944</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[0dffe4984c4eed3a33494af9d219c27b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT7137217120.mp3?updated=1510675054" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Early Years: Marshmallow Shooter Camp</title>
+      <description>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.
+Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Story Pirates Podcast features highlights from our weekly radio show on SiriusXM's Kids Place Live. Visit www.storypirates.org for more information on how you can bring Story Pirates Live to your school or town!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Wed, 02 Oct 2013 10:00:00 -0000</pubDate>
+      <itunes:title>The Early Years: Marshmallow Shooter Camp</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Story Pirates</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/f228951c-c3ef-11e7-9590-cf31fba28cdb/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Marshmallow Shooter Camp by Christopher DeWeerd</itunes:subtitle>
+      <itunes:summary>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.
+Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Story Pirates Podcast features highlights from our weekly radio show on SiriusXM's Kids Place Live. Visit www.storypirates.org for more information on how you can bring Story Pirates Live to your school or town!
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.</p><p>Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Story Pirates Podcast features highlights from our weekly radio show on SiriusXM's Kids Place Live. Visit <a href="http://www.storypirates.org">www.storypirates.org</a> for more information on how you can bring Story Pirates Live to your school or town!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>766</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[0ef0c85a1a079caeddaf06406e8b642b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT2062163258.mp3?updated=1510347571" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
