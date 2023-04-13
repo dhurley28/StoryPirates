@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://feeds.megaphone.fm/storypirates" rel="self" type="application/rss+xml"/>
-    <title>Story Pirates 001-025</title>
+    <title>Story Pirates 001-026</title>
     <link>http://www.storypirates.com/podcast</link>
     <language>en</language>
     <copyright></copyright>
@@ -32,546 +32,495 @@
     <itunes:category text="Education">
     </itunes:category>
 
-    <item>
-      <title>The Early Years: Dino Bank Robbers Who Actually Stole For Charity</title>
-      <description>From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!
+  <item>
+    <title>The Early Years: Dino Bank Robbers Who Actually Stole For Charity</title>
+    <description>From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Thu, 19 Nov 2015 23:27:00 -0000</pubDate>
-      <itunes:title>The Early Years: Dino Bank Robbers Who Actually Stole For Charity</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>25</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/eee73e1c-c3ef-11e7-9590-8f253d7da4dd/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!</itunes:subtitle>
-      <itunes:summary>From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!
+    <pubDate>Mon, 19 Nov 1990 23:27:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Dino Bank Robbers Who Actually Stole For Charity</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">25</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/eee73e1c-c3ef-11e7-9590-8f253d7da4dd/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>889</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[d9bfdc3d33ff92feefac80097251a896]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT6397718000.mp3?updated=1510679200" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Zach's Story</title>
-      <description>From our “Spring Break” show in April 2015 comes the story ‘Zach’s Story’ by then-third grader Gabriella Freeman!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>From our dinosaurs themed show comes “Dino Bank Robbers Who Actually Stole For Charity” by then third grader Ethan Griffis!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">889</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[d9bfdc3d33ff92feefac80097251a896]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT6397718000.mp3?updated=1510679200" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Zach's Story</title>
+    <description>From our “Spring Break” show in April 2015 comes the story ‘Zach’s Story’ by then-third grader Gabriella Freeman!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Thu, 05 Nov 2015 18:59:00 -0000</pubDate>
-      <itunes:title>The Early Years: Zach's Story</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>24</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/eefbfee2-c3ef-11e7-9590-33003ed1d367/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>"Zach's Story" by Gabriella Freeman</itunes:subtitle>
-      <itunes:summary>From our “Spring Break” show in April 2015 comes the story ‘Zach’s Story’ by then-third grader Gabriella Freeman!
+    <pubDate>Tue, 05 Nov 1991 18:59:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Zach's Story</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">24</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/eefbfee2-c3ef-11e7-9590-33003ed1d367/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">"Zach's Story" by Gabriella Freeman</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">From our “Spring Break” show in April 2015 comes the story ‘Zach’s Story’ by then-third grader Gabriella Freeman!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>From our “Spring Break” show in April 2015 comes the story ‘Zach’s Story’ by then-third grader Gabriella Freeman!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>926</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[0e4d5d359cc6d37c2af12d744c631673]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT7875181377.mp3?updated=1649787150" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Chris Foxerson's Famous Day</title>
-      <description>From our “Made Up Celebrities” show in September 2014 comes the story ‘Chris Foxerson's Famous Day’ by then-kindergartener Miller Ochs!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>From our “Spring Break” show in April 2015 comes the story ‘Zach’s Story’ by then-third grader Gabriella Freeman!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">926</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[0e4d5d359cc6d37c2af12d744c631673]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT7875181377.mp3?updated=1649787150" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Chris Foxerson's Famous Day</title>
+    <description>From our “Made Up Celebrities” show in September 2014 comes the story ‘Chris Foxerson's Famous Day’ by then-kindergartener Miller Ochs!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Thu, 22 Oct 2015 15:03:00 -0000</pubDate>
-      <itunes:title>The Early Years: Chris Foxerson's Famous Day</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>23</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ef0e6294-c3ef-11e7-9590-bf90495a9f0a/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Chris Foxerson's Famous Day by Miller Ochs</itunes:subtitle>
-      <itunes:summary>From our “Made Up Celebrities” show in September 2014 comes the story ‘Chris Foxerson's Famous Day’ by then-kindergartener Miller Ochs!
+    <pubDate>Thu, 22 Oct 1992 16:03:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Chris Foxerson's Famous Day</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">23</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ef0e6294-c3ef-11e7-9590-bf90495a9f0a/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Chris Foxerson's Famous Day by Miller Ochs</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">From our “Made Up Celebrities” show in September 2014 comes the story ‘Chris Foxerson's Famous Day’ by then-kindergartener Miller Ochs!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>From our “Made Up Celebrities” show in September 2014 comes the story ‘Chris Foxerson's Famous Day’ by then-kindergartener Miller Ochs!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>870</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[dae841494e24da7eabef1d4d8a888532]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT7455637951.mp3?updated=1510677881" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Table Manners</title>
-      <description>From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>From our “Made Up Celebrities” show in September 2014 comes the story ‘Chris Foxerson's Famous Day’ by then-kindergartener Miller Ochs!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">870</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[dae841494e24da7eabef1d4d8a888532]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT7455637951.mp3?updated=1510677881" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Table Manners</title>
+    <description>From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Mon, 12 Oct 2015 03:41:00 -0000</pubDate>
-      <itunes:title>The Early Years: Table Manners</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>22</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ef237648-c3ef-11e7-9590-5badd8e5d0a8/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!</itunes:subtitle>
-      <itunes:summary>From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!
+    <pubDate>Tue, 12 Oct 1993 04:41:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Table Manners</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">22</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ef237648-c3ef-11e7-9590-5badd8e5d0a8/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>847</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[1c5926314e9c0e6cffd690697ed2d0ff]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT1215045142.mp3?updated=1510677702" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Fieldtrip to Oppositeland</title>
-      <description>Take a trip to Oppositeland with the wacky tale by Gabriel Fassler from Brooklyn, NY!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>From our pet peeves themed show comes new story 'Table Manners' by Callie Woodchek from Dallas, Texas!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">847</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[1c5926314e9c0e6cffd690697ed2d0ff]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT1215045142.mp3?updated=1510677702" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Fieldtrip to Oppositeland</title>
+    <description>Take a trip to Oppositeland with the wacky tale by Gabriel Fassler from Brooklyn, NY!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Thu, 24 Sep 2015 16:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: Fieldtrip to Oppositeland</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>21</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ef3784da-c3ef-11e7-9590-ab9a7a6ed9e6/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Fieldtrip to Oppositeland by Gabriel Fassler</itunes:subtitle>
-      <itunes:summary>Take a trip to Oppositeland with the wacky tale by Gabriel Fassler from Brooklyn, NY!
+    <pubDate>Sat, 24 Sep 1994 17:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Fieldtrip to Oppositeland</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">21</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ef3784da-c3ef-11e7-9590-ab9a7a6ed9e6/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Fieldtrip to Oppositeland by Gabriel Fassler</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Take a trip to Oppositeland with the wacky tale by Gabriel Fassler from Brooklyn, NY!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Take a trip to Oppositeland with the wacky tale by Gabriel Fassler from Brooklyn, NY!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>940</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[45e3169a0ea31b46346647c33cd2d3ee]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT4678638479.mp3?updated=1510677679" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Best Summer Identity Ever!</title>
-      <description>Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Take a trip to Oppositeland with the wacky tale by Gabriel Fassler from Brooklyn, NY!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">940</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[45e3169a0ea31b46346647c33cd2d3ee]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT4678638479.mp3?updated=1510677679" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Best Summer Identity Ever!</title>
+    <description>Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Tue, 12 May 2015 15:41:00 -0000</pubDate>
-      <itunes:title>The Early Years: Best Summer Identity Ever!</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>20</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ef4557ae-c3ef-11e7-9590-3fd6c64ce1e4/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.</itunes:subtitle>
-      <itunes:summary>Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.
+    <pubDate>Fri, 12 May 1995 16:41:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Best Summer Identity Ever!</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">20</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ef4557ae-c3ef-11e7-9590-3fd6c64ce1e4/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>980</itunes:duration>
-      <guid isPermaLink="false"><![CDATA[8188256c81034bc9ec864aa827f95f70]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT5498912621.mp3?updated=1510677602" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Lions</title>
-      <description>Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an interview with the author!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Story Pirates are back with a case of mistaken identity featuring NFL’s Steve Smith Sr. in “Best Summer Identity Ever!” by then-second grader Drew Wright from Winton-Salem, North Carolina. Featuring an interview with author Drew Wright.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">980</itunes:duration>
+    <guid isPermaLink="false"><![CDATA[8188256c81034bc9ec864aa827f95f70]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT5498912621.mp3?updated=1510677602" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Lions</title>
+    <description>Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an interview with the author!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 13 Feb 2015 01:38:00 -0000</pubDate>
-      <itunes:title>The Early Years: Lions</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>19</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ef58413e-c3ef-11e7-9590-27c178d959cf/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an...</itunes:subtitle>
-      <itunes:summary>Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an interview with the author!
+    <pubDate>Tue, 13 Feb 1996 01:38:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Lions</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">19</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ef58413e-c3ef-11e7-9590-27c178d959cf/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an interview with the author!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an interview with the author!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>1038</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[e01a8dda8e7bab3145c27aca41bff5a1]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT5167207252.mp3?updated=1510677557" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: The Bear Saved the Christmas</title>
-      <description>Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays from the Story Pirates!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Lions and snakes and zookeepers, oh my! In this wacky zoo adventure, the animals are running the show. This week’s podcast features the Story Pirates’ adaptation of then-kindergartener Tamar Posin’s story “Lions”, and an interview with the author!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1038</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[e01a8dda8e7bab3145c27aca41bff5a1]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT5167207252.mp3?updated=1510677557" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: The Bear Saved the Christmas</title>
+    <description>Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays from the Story Pirates!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Wed, 24 Dec 2014 03:20:00 -0000</pubDate>
-      <itunes:title>The Early Years: The Bear Saved the Christmas</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>18</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/ef6d16cc-c3ef-11e7-9590-9b078adbd468/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays...</itunes:subtitle>
-      <itunes:summary>Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays from the Story Pirates!
+    <pubDate>Tue, 24 Dec 1996 03:20:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: The Bear Saved the Christmas</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">18</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ef6d16cc-c3ef-11e7-9590-9b078adbd468/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays from the Story Pirates!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays from the Story Pirates!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>972</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[c3c303964da34fa363560891dff64e8c]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT1917338341.mp3?updated=1510677501" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Ukulele Island</title>
-      <description>Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio, this podcast features an exclusive interview with author Sarah Snyder!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Just in time for Christmas comes a holiday story from the archives: “The Bear Saved the Christmas” by then five year old Evan Pegorsch. This episode features an interview with now-nine year old author Evan - on his birthday! Happy holidays from the Story Pirates!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">972</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[c3c303964da34fa363560891dff64e8c]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT1917338341.mp3?updated=1510677501" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Ukulele Island</title>
+    <description>Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio, this podcast features an exclusive interview with author Sarah Snyder!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 12 Dec 2014 00:33:00 -0000</pubDate>
-      <itunes:title>The Early Years: Ukulele Island</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>17</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f0175dda-c3ef-11e7-9590-ab5d07e92950/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio,...</itunes:subtitle>
-      <itunes:summary>Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio, this podcast features an exclusive interview with author Sarah Snyder!
+    <pubDate>Fri, 12 Dec 1997 00:33:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Ukulele Island</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">17</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f0175dda-c3ef-11e7-9590-ab5d07e92950/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio,...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio, this podcast features an exclusive interview with author Sarah Snyder!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio, this podcast features an exclusive interview with author Sarah Snyder!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>849</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[ec1e0dcb760b95de3f9cbca6c23060cb]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT5869757012.mp3?updated=1510677437" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special</title>
-      <description> 
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Story Pirates are back with a another adaptation, written by a kid, performed by the Story Pirates! This week’s episode features “Ukulele Island” by then 4th grader Sarah Snyder. First performed in March of 2013 on SiriusXM radio, this podcast features an exclusive interview with author Sarah Snyder!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">849</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[ec1e0dcb760b95de3f9cbca6c23060cb]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT5869757012.mp3?updated=1510677437" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special</title>
+    <description> 
 This week’s Story Pirates episode features a story with one of the longest titles we’ve ever encountered! Check out “The Early Years: 16 - Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special” by then-five year old Sofie Dikkers. In this episode’s author interview, Sofie shares how she came up with her awesome title and her favorite things about first grade!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Tue, 07 Oct 2014 22:13:00 -0000</pubDate>
-      <itunes:title>The Early Years: Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>16</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f02c5bc2-c3ef-11e7-9590-df775bac94a5/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle> This week’s Story Pirates episode features a story with one of the longest titles we’ve ever encountered! Check out “The Early Years: 16 - Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special” by then-five year...</itunes:subtitle>
-      <itunes:summary> 
+    <pubDate>Wed, 07 Oct 1998 23:13:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">16</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f02c5bc2-c3ef-11e7-9590-df775bac94a5/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> This week’s Story Pirates episode features a story with one of the longest titles we’ve ever encountered! Check out “The Early Years: 16 - Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special” by then-five year...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
 This week’s Story Pirates episode features a story with one of the longest titles we’ve ever encountered! Check out “The Early Years: 16 - Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special” by then-five year old Sofie Dikkers. In this episode’s author interview, Sofie shares how she came up with her awesome title and her favorite things about first grade!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p> </p><p>This week’s Story Pirates episode features a story with one of the longest titles we’ve ever encountered! Check out “The Early Years: 16 - Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special” by then-five year old Sofie Dikkers. In this episode’s author interview, Sofie shares how she came up with her awesome title and her favorite things about first grade!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>1028</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[978c63098fdfb241a85acb1bd362f438]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT3083378342.mp3?updated=1510677348" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Fall in a Hole</title>
-      <description> 
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p> </p><p>This week’s Story Pirates episode features a story with one of the longest titles we’ve ever encountered! Check out “The Early Years: 16 - Melissa the Superhero Who Can Lift Up a Chair and She Makes Your Day Feel Special” by then-five year old Sofie Dikkers. In this episode’s author interview, Sofie shares how she came up with her awesome title and her favorite things about first grade!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1028</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[978c63098fdfb241a85acb1bd362f438]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT3083378342.mp3?updated=1510677348" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Fall in a Hole</title>
+    <description> 
 Story Pirates are back with their latest adaptation of “Fall in a hole” by then-preschooler Henry Hilliard. There’s a lot of holes on Farm Street, and plenty of adventures to be had from falling in those holes! Featuring an interview with now seven year old author Henry.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Thu, 18 Sep 2014 21:14:00 -0000</pubDate>
-      <itunes:title>The Early Years: Fall in a Hole</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>15</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f0494a2a-c3ef-11e7-9590-0fd0b5d58090/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle> Story Pirates are back with their latest adaptation of “Fall in a hole” by then-preschooler Henry Hilliard. There’s a lot of holes on Farm Street, and plenty of adventures to be had from falling in those holes! Featuring an...</itunes:subtitle>
-      <itunes:summary> 
+    <pubDate>Sat, 18 Sep 1999 22:14:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Fall in a Hole</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">15</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f0494a2a-c3ef-11e7-9590-0fd0b5d58090/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> Story Pirates are back with their latest adaptation of “Fall in a hole” by then-preschooler Henry Hilliard. There’s a lot of holes on Farm Street, and plenty of adventures to be had from falling in those holes! Featuring an...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
 Story Pirates are back with their latest adaptation of “Fall in a hole” by then-preschooler Henry Hilliard. There’s a lot of holes on Farm Street, and plenty of adventures to be had from falling in those holes! Featuring an interview with now seven year old author Henry.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p> </p><p>Story Pirates are back with their latest adaptation of “Fall in a hole” by then-preschooler Henry Hilliard. There’s a lot of holes on Farm Street, and plenty of adventures to be had from falling in those holes! Featuring an interview with now seven year old author Henry.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>810</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[b2833b77a9aad63cf802567bc1d31eef]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT1221061858.mp3?updated=1510677179" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Volleyball In the Future and Past</title>
-      <description> 
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p> </p><p>Story Pirates are back with their latest adaptation of “Fall in a hole” by then-preschooler Henry Hilliard. There’s a lot of holes on Farm Street, and plenty of adventures to be had from falling in those holes! Featuring an interview with now seven year old author Henry.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">810</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[b2833b77a9aad63cf802567bc1d31eef]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT1221061858.mp3?updated=1510677179" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Volleyball In the Future and Past</title>
+    <description> 
 Story Pirates are back with a story from then-sixth grader Tori Fernandes from Oak Hills, California! Tori’s story “Volleyball in the Future and Past” was written for our “Time Travel Spring Break” episode in April of 2013. Check out this episode for Tori’s story and an interview with the author! 
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Wed, 13 Aug 2014 19:14:00 -0000</pubDate>
-      <itunes:title>The Early Years: Volleyball In the Future and Past</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>14</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f059560e-c3ef-11e7-9590-87ab9db62145/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle> Story Pirates are back with a story from then-sixth grader Tori Fernandes from Oak Hills, California! Tori’s story “Volleyball in the Future and Past” was written for our “Time Travel Spring Break” episode in...</itunes:subtitle>
-      <itunes:summary> 
+    <pubDate>Sun, 13 Aug 2000 20:14:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Volleyball In the Future and Past</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">14</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f059560e-c3ef-11e7-9590-87ab9db62145/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> Story Pirates are back with a story from then-sixth grader Tori Fernandes from Oak Hills, California! Tori’s story “Volleyball in the Future and Past” was written for our “Time Travel Spring Break” episode in...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
 Story Pirates are back with a story from then-sixth grader Tori Fernandes from Oak Hills, California! Tori’s story “Volleyball in the Future and Past” was written for our “Time Travel Spring Break” episode in April of 2013. Check out this episode for Tori’s story and an interview with the author! 
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p> </p><p>Story Pirates are back with a story from then-sixth grader Tori Fernandes from Oak Hills, California! Tori’s story “Volleyball in the Future and Past” was written for our “Time Travel Spring Break” episode in April of 2013. Check out this episode for Tori’s story and an interview with the author! </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>823</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[abd05441d81a0aeb1ac38fd2ee406835]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT3837165871.mp3?updated=1510677143" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Garbage Truck</title>
-      <description> 
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p> </p><p>Story Pirates are back with a story from then-sixth grader Tori Fernandes from Oak Hills, California! Tori’s story “Volleyball in the Future and Past” was written for our “Time Travel Spring Break” episode in April of 2013. Check out this episode for Tori’s story and an interview with the author! </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">823</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[abd05441d81a0aeb1ac38fd2ee406835]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT3837165871.mp3?updated=1510677143" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Garbage Truck</title>
+    <description> 
 What happens when a garbage truck spits out trash instead of picking it up? Find out in this episode of Story Pirates podcast, featuring “Garbage Truck” by twins Jack and Melinda from Westborough, MA. Featuring an interview with authors Jack and Melinda, and a bonus fun fact about the beaches of Cape Cod!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 25 Apr 2014 23:57:00 -0000</pubDate>
-      <itunes:title>The Early Years: Garbage Truck</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>13</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f06d7170-c3ef-11e7-9590-5f69978b76b2/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle> What happens when a garbage truck spits out trash instead of picking it up? Find out in this episode of Story Pirates podcast, featuring “Garbage Truck” by twins Jack and Melinda from Westborough, MA. Featuring an interview with...</itunes:subtitle>
-      <itunes:summary> 
+    <pubDate>Thu, 26 Apr 2001 00:57:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Garbage Truck</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">13</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f06d7170-c3ef-11e7-9590-5f69978b76b2/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> What happens when a garbage truck spits out trash instead of picking it up? Find out in this episode of Story Pirates podcast, featuring “Garbage Truck” by twins Jack and Melinda from Westborough, MA. Featuring an interview with...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
 What happens when a garbage truck spits out trash instead of picking it up? Find out in this episode of Story Pirates podcast, featuring “Garbage Truck” by twins Jack and Melinda from Westborough, MA. Featuring an interview with authors Jack and Melinda, and a bonus fun fact about the beaches of Cape Cod!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p> </p><p>What happens when a garbage truck spits out trash instead of picking it up? Find out in this episode of Story Pirates podcast, featuring “Garbage Truck” by twins Jack and Melinda from Westborough, MA. Featuring an interview with authors Jack and Melinda, and a bonus fun fact about the beaches of Cape Cod!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>847</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[473fe93a4ce9c9ae5fa22e120cc55ec5]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT4818522725.mp3?updated=1510677086" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: There Is A Monster (Snufflepants)</title>
-      <description> 
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p> </p><p>What happens when a garbage truck spits out trash instead of picking it up? Find out in this episode of Story Pirates podcast, featuring “Garbage Truck” by twins Jack and Melinda from Westborough, MA. Featuring an interview with authors Jack and Melinda, and a bonus fun fact about the beaches of Cape Cod!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">847</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[473fe93a4ce9c9ae5fa22e120cc55ec5]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT4818522725.mp3?updated=1510677086" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: There Is A Monster (Snufflepants)</title>
+    <description> 
 Story Pirates are back with “There Is A Monster (Snufflepants)” by first grader Jayden Collier, a story that has now been performed live onstage all across the country! Meet Snufflepants, the only monster in his family. In Jayden’s words, “He’s nice I love him.” What else is Snufflepants? Check out this episode to find out! Featuring an interview with author Jayden and his amazing ideas for more monster characters!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Sat, 29 Mar 2014 17:13:00 -0000</pubDate>
-      <itunes:title>The Early Years: There Is A Monster (Snufflepants)</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>12</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f084f034-c3ef-11e7-9590-6f495feaefcd/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle> Story Pirates are back with “There Is A Monster (Snufflepants)” by first grader Jayden Collier, a story that has now been performed live onstage all across the country! Meet Snufflepants, the only monster in his family. In...</itunes:subtitle>
-      <itunes:summary> 
+    <pubDate>Fri, 29 Mar 2002 17:13:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: There Is A Monster (Snufflepants)</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">12</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f084f034-c3ef-11e7-9590-6f495feaefcd/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> Story Pirates are back with “There Is A Monster (Snufflepants)” by first grader Jayden Collier, a story that has now been performed live onstage all across the country! Meet Snufflepants, the only monster in his family. In...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
 Story Pirates are back with “There Is A Monster (Snufflepants)” by first grader Jayden Collier, a story that has now been performed live onstage all across the country! Meet Snufflepants, the only monster in his family. In Jayden’s words, “He’s nice I love him.” What else is Snufflepants? Check out this episode to find out! Featuring an interview with author Jayden and his amazing ideas for more monster characters!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p> </p><p>Story Pirates are back with “There Is A Monster (Snufflepants)” by first grader Jayden Collier, a story that has now been performed live onstage all across the country! Meet Snufflepants, the only monster in his family. In Jayden’s words, “He’s nice I love him.” What else is Snufflepants? Check out this episode to find out! Featuring an interview with author Jayden and his amazing ideas for more monster characters!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>737</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[97dcf1156ebe59fc8f86daf3b30a0f40]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT6025622436.mp3?updated=1510677035" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Football Tornado</title>
-      <description> 
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p> </p><p>Story Pirates are back with “There Is A Monster (Snufflepants)” by first grader Jayden Collier, a story that has now been performed live onstage all across the country! Meet Snufflepants, the only monster in his family. In Jayden’s words, “He’s nice I love him.” What else is Snufflepants? Check out this episode to find out! Featuring an interview with author Jayden and his amazing ideas for more monster characters!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">737</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[97dcf1156ebe59fc8f86daf3b30a0f40]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT6025622436.mp3?updated=1510677035" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Football Tornado</title>
+    <description> 
 What happens when you combine a kid who doesn't know how to play football and a tornado? Find out in this episode of the Story Pirate Podcast, featuring the story “Football Tornado” by then first grader Jackson Scott from Odessa, Texas! Join the Story Pirates for this out of this world adventure, featuring an interview with now almost 9 year old author Jackson Scott - including his advice for all you authors out there!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 14 Mar 2014 02:18:00 -0000</pubDate>
-      <itunes:title>The Early Years: Football Tornado</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>11</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f098dc98-c3ef-11e7-9590-0b4ef9a5b950/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle> What happens when you combine a kid who doesn't know how to play football and a tornado? Find  out in this episode of the Story Pirate Podcast, featuring the story “Football Tornado” by then first grader Jackson Scott from...</itunes:subtitle>
-      <itunes:summary> 
+    <pubDate>Fri, 14 Mar 2003 02:18:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Football Tornado</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">11</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f098dc98-c3ef-11e7-9590-0b4ef9a5b950/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> What happens when you combine a kid who doesn't know how to play football and a tornado? Find  out in this episode of the Story Pirate Podcast, featuring the story “Football Tornado” by then first grader Jackson Scott from...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
 What happens when you combine a kid who doesn't know how to play football and a tornado? Find out in this episode of the Story Pirate Podcast, featuring the story “Football Tornado” by then first grader Jackson Scott from Odessa, Texas! Join the Story Pirates for this out of this world adventure, featuring an interview with now almost 9 year old author Jackson Scott - including his advice for all you authors out there!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p> </p><p>What happens when you combine a kid who doesn't know how to play football and a tornado? Find out in this episode of the Story Pirate Podcast, featuring the story “Football Tornado” by then first grader Jackson Scott from Odessa, Texas! Join the Story Pirates for this out of this world adventure, featuring an interview with now almost 9 year old author Jackson Scott - including his advice for all you authors out there!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>847</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[28997c739a973adc92dad13e7f922e9a]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT5166524001.mp3?updated=1510676761" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: The Birth of Acapella </title>
-      <description> 
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p> </p><p>What happens when you combine a kid who doesn't know how to play football and a tornado? Find out in this episode of the Story Pirate Podcast, featuring the story “Football Tornado” by then first grader Jackson Scott from Odessa, Texas! Join the Story Pirates for this out of this world adventure, featuring an interview with now almost 9 year old author Jackson Scott - including his advice for all you authors out there!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">847</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[28997c739a973adc92dad13e7f922e9a]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT5166524001.mp3?updated=1510676761" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: The Birth of Acapella </title>
+    <description> 
 In this episode of the Story Pirate Podcast, then 7th grader Kaleigh Ringo tells us her wacky version of how a cappella was born in her story, “The Birth of Acapella”! Join the Story Pirates for a trip to Musicville and find out what happens when four kids break all the musical rules. Will their master plan work? Will they be sent to Tickle Island? There’s only one way to find out! Featuring a very special impromptu performance by author Kaleigh and her mom, this week’s episode will be music to your ears. 
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Sat, 22 Feb 2014 04:02:00 -0000</pubDate>
-      <itunes:title>The Early Years: The Birth of Acapella </itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>10</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f0d96934-c3ef-11e7-9590-efa9a0abf07b/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle> In this episode of the Story Pirate Podcast, then 7th grader Kaleigh Ringo tells us her wacky version of how a cappella was born in her story, “The Birth of Acapella”! Join the Story Pirates for a trip to Musicville and find out...</itunes:subtitle>
-      <itunes:summary> 
+    <pubDate>Sun, 22 Feb 2004 04:02:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: The Birth of Acapella </itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">10</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f0d96934-c3ef-11e7-9590-efa9a0abf07b/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> In this episode of the Story Pirate Podcast, then 7th grader Kaleigh Ringo tells us her wacky version of how a cappella was born in her story, “The Birth of Acapella”! Join the Story Pirates for a trip to Musicville and find out...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> 
 In this episode of the Story Pirate Podcast, then 7th grader Kaleigh Ringo tells us her wacky version of how a cappella was born in her story, “The Birth of Acapella”! Join the Story Pirates for a trip to Musicville and find out what happens when four kids break all the musical rules. Will their master plan work? Will they be sent to Tickle Island? There’s only one way to find out! Featuring a very special impromptu performance by author Kaleigh and her mom, this week’s episode will be music to your ears. 
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p> </p><p>In this episode of the Story Pirate Podcast, then 7th grader Kaleigh Ringo tells us her wacky version of how a cappella was born in her story, “The Birth of Acapella”! Join the Story Pirates for a trip to Musicville and find out what happens when four kids break all the musical rules. Will their master plan work? Will they be sent to Tickle Island? There’s only one way to find out! Featuring a very special impromptu performance by author Kaleigh and her mom, this week’s episode will be music to your ears. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>1099</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[5546d1daf843b9131d9c40d5d8b407b0]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT1215697343.mp3?updated=1510676423" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Big Girl Bed</title>
-      <description>In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my crib anymore! What else does Mia love? Check out the podcast to find out! Featuring an interview with now five year old author Mia Allen, including tips for other kids on writing their own stories, and original music by Eli Bolin!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p> </p><p>In this episode of the Story Pirate Podcast, then 7th grader Kaleigh Ringo tells us her wacky version of how a cappella was born in her story, “The Birth of Acapella”! Join the Story Pirates for a trip to Musicville and find out what happens when four kids break all the musical rules. Will their master plan work? Will they be sent to Tickle Island? There’s only one way to find out! Featuring a very special impromptu performance by author Kaleigh and her mom, this week’s episode will be music to your ears. </p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1099</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[5546d1daf843b9131d9c40d5d8b407b0]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT1215697343.mp3?updated=1510676423" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Big Girl Bed</title>
+    <description>In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my crib anymore! What else does Mia love? Check out the podcast to find out! Featuring an interview with now five year old author Mia Allen, including tips for other kids on writing their own stories, and original music by Eli Bolin!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 07 Feb 2014 20:49:00 -0000</pubDate>
-      <itunes:title>The Early Years: Big Girl Bed</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>9</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f0efaa96-c3ef-11e7-9590-2befea248b7f/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my...</itunes:subtitle>
-      <itunes:summary>In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my crib anymore! What else does Mia love? Check out the podcast to find out! Featuring an interview with now five year old author Mia Allen, including tips for other kids on writing their own stories, and original music by Eli Bolin!
+    <pubDate>Mon, 07 Feb 2005 20:49:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Big Girl Bed</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">9</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f0efaa96-c3ef-11e7-9590-2befea248b7f/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my crib anymore! What else does Mia love? Check out the podcast to find out! Featuring an interview with now five year old author Mia Allen, including tips for other kids on writing their own stories, and original music by Eli Bolin!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my crib anymore! What else does Mia love? Check out the podcast to find out! Featuring an interview with now five year old author Mia Allen, including tips for other kids on writing their own stories, and original music by Eli Bolin!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>722</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[1e0199513e1f89f0b1ac94ffdaae662f]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT2559995555.mp3?updated=1510676288" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Angry</title>
-      <description>In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our protagonist through toilet paper kicking and sibling rivalry all the way to it’s tickle-y conclusion! Featuring an interview with author Kai Hacker.
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>In this installment of the Story Pirates podcast, this musical adaptation of not-even-three year old Mia’s story “I love my big girl bed”! Find out all about Mia’s new big girl bed and why she’s not going to sleep in my crib anymore! What else does Mia love? Check out the podcast to find out! Featuring an interview with now five year old author Mia Allen, including tips for other kids on writing their own stories, and original music by Eli Bolin!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">722</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[1e0199513e1f89f0b1ac94ffdaae662f]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT2559995555.mp3?updated=1510676288" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Angry</title>
+    <description>In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our protagonist through toilet paper kicking and sibling rivalry all the way to it’s tickle-y conclusion! Featuring an interview with author Kai Hacker.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 24 Jan 2014 11:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: Angry</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>8</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f199bff4-c3ef-11e7-9590-7bcf5f587339/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our...</itunes:subtitle>
-      <itunes:summary>In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our protagonist through toilet paper kicking and sibling rivalry all the way to it’s tickle-y conclusion! Featuring an interview with author Kai Hacker.
+    <pubDate>Tue, 24 Jan 2006 11:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Angry</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">8</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f199bff4-c3ef-11e7-9590-7bcf5f587339/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our protagonist through toilet paper kicking and sibling rivalry all the way to it’s tickle-y conclusion! Featuring an interview with author Kai Hacker.
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our protagonist through toilet paper kicking and sibling rivalry all the way to it’s tickle-y conclusion! Featuring an interview with author Kai Hacker.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>748</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[0b9ef0209332f830273d27bdd911dc7f]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT7517732127.mp3?updated=1510676184" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Weird Backpack</title>
-      <description>The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the Superhero Backpack with worms in its pockets be able to save the country? Will they make it to Tickle Island?! There’s only one way to find out! Featuring a snow day interview with now 10 year old author Bridget Hermann!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>In the latest installment of Story Pirates podcast, the Story Pirates bring you the musical adaptation of “Angry” by Kai Hacker. Adapted my Story Pirates Musical Director Eli Bolin, “Angry” features the angry adventures of our protagonist through toilet paper kicking and sibling rivalry all the way to it’s tickle-y conclusion! Featuring an interview with author Kai Hacker.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">748</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[0b9ef0209332f830273d27bdd911dc7f]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT7517732127.mp3?updated=1510676184" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Weird Backpack</title>
+    <description>The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the Superhero Backpack with worms in its pockets be able to save the country? Will they make it to Tickle Island?! There’s only one way to find out! Featuring a snow day interview with now 10 year old author Bridget Hermann!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 10 Jan 2014 11:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: Weird Backpack</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>7</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f1b16924-c3ef-11e7-9590-bb7102b3a1a5/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the...</itunes:subtitle>
-      <itunes:summary>The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the Superhero Backpack with worms in its pockets be able to save the country? Will they make it to Tickle Island?! There’s only one way to find out! Featuring a snow day interview with now 10 year old author Bridget Hermann!
+    <pubDate>Wed, 10 Jan 2007 11:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Weird Backpack</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">7</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f1b16924-c3ef-11e7-9590-bb7102b3a1a5/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the...</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the Superhero Backpack with worms in its pockets be able to save the country? Will they make it to Tickle Island?! There’s only one way to find out! Featuring a snow day interview with now 10 year old author Bridget Hermann!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the Superhero Backpack with worms in its pockets be able to save the country? Will they make it to Tickle Island?! There’s only one way to find out! Featuring a snow day interview with now 10 year old author Bridget Hermann!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>906</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[f08e49507ab58f5218ed4c8e18df0fbb]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT4029731857.mp3?updated=1510676131" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: No Ice Cream </title>
-      <description>Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>The Story Pirates are back with  ‘The Weird Backpack’ by then 9 year old Bridget Hermann. When classroom eating backpacks threaten to take over the country, there’s only one backpack up to the job of saving the world! Will the Superhero Backpack with worms in its pockets be able to save the country? Will they make it to Tickle Island?! There’s only one way to find out! Featuring a snow day interview with now 10 year old author Bridget Hermann!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">906</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[f08e49507ab58f5218ed4c8e18df0fbb]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT4029731857.mp3?updated=1510676131" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: No Ice Cream </title>
+    <description>Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 13 Dec 2013 11:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: No Ice Cream</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>6</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f1c4a4da-c3ef-11e7-9590-a39f05657082/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!</itunes:subtitle>
-      <itunes:summary>Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!
+    <pubDate>Thu, 13 Dec 2007 11:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: No Ice Cream</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">6</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f1c4a4da-c3ef-11e7-9590-a39f05657082/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>985</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[24dd9dcdb2d6743e04745d504e49012c]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT7213296489.mp3?updated=1510675963" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Dolly Magic Machine</title>
-      <description>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Story Pirates head to Hotville in "No Ice cream" by then 8 year old Kenna! With superpowers and a little help from a deus ex helicopter, join Super Kenna on her town altering adventures! Featuring an interview with author Kenna!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">985</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[24dd9dcdb2d6743e04745d504e49012c]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT7213296489.mp3?updated=1510675963" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Dolly Magic Machine</title>
+    <description>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Wed, 27 Nov 2013 11:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: Dolly Magic Machine</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>5</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f1e9db7e-c3ef-11e7-9590-633cda1f18a9/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson</itunes:subtitle>
-      <itunes:summary>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!
+    <pubDate>Thu, 27 Nov 2008 11:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Dolly Magic Machine</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">5</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f1e9db7e-c3ef-11e7-9590-633cda1f18a9/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>913</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[c018339e42d8cff42afaa9eec9b73410]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT8144425143.mp3?updated=1510675186" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Pluto And The Pop Rocks</title>
-      <description>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>The Story Pirates are back with “Dolly Magic Machine” by then-1st grader Charlotte Thompson from Indianapolis. Inspired by a favorite toy, the Dolly Magic Machine is an awesome toy that Samantha will do anything to get! Featuring an interview with author Charlotte, check out the hilarious latest installment of the Story Pirates podcast!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">913</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[c018339e42d8cff42afaa9eec9b73410]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT8144425143.mp3?updated=1510675186" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Pluto And The Pop Rocks</title>
+    <description>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Fri, 15 Nov 2013 11:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: Pluto And The Pop Rocks</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>5</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f1d49c50-c3ef-11e7-9590-cf65de92093a/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor</itunes:subtitle>
-      <itunes:summary>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!
+    <pubDate>Sun, 15 Nov 2009 11:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Pluto And The Pop Rocks</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">5</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f1d49c50-c3ef-11e7-9590-cf65de92093a/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>813</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[71dae57f6f9674c7c37f7004c862edc6]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT7814310439.mp3?updated=1510675160" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: The Ghost’s New Friend</title>
-      <description>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Journey into space with the Story Pirates in “Pluto and the Pop Rocks” by John Hobbes Taylor. Why is dwarf planet Pluto sad, and how will the visiting kids cheer him up? Join the Story Pirates on this weird vacation adventure, featuring an interview with author John Hobbes Taylor!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">813</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[71dae57f6f9674c7c37f7004c862edc6]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT7814310439.mp3?updated=1510675160" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: The Ghost’s New Friend</title>
+    <description>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Wed, 30 Oct 2013 06:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: The Ghost’s New Friend</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f214852c-c3ef-11e7-9590-eb81b84bad25/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>By Alyssa Mazak! </itunes:subtitle>
-      <itunes:summary>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!
+    <pubDate>Sat, 30 Oct 2010 06:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: The Ghost’s New Friend</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f214852c-c3ef-11e7-9590-eb81b84bad25/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">By Alyssa Mazak! </itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>768</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[845da6fe39a3eb43edcfa3e8bcc18227]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT2865987292.mp3?updated=1510675059" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Trash Day</title>
-      <description>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Just in time for Halloween, Story Pirates is back with the (not so scary) story 'The Ghost's New Friend' by Alyssa Mazak! Join ghost Boo as he explores the peculiar challenges faced by a ghost trying to make a friend. Featuring an interview with author Alyssa Mazak, and her tips for writing a great story!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">768</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[845da6fe39a3eb43edcfa3e8bcc18227]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT2865987292.mp3?updated=1510675059" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Trash Day</title>
+    <description>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Thu, 17 Oct 2013 06:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: Trash Day</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f1fe6e2c-c3ef-11e7-9590-b302cd7575cc/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Have you ever wondered about the origins of Trash Day?</itunes:subtitle>
-      <itunes:summary>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!
+    <pubDate>Mon, 17 Oct 2011 07:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Trash Day</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">2</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f1fe6e2c-c3ef-11e7-9590-b302cd7575cc/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Have you ever wondered about the origins of Trash Day?</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>944</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[0dffe4984c4eed3a33494af9d219c27b]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT7137217120.mp3?updated=1510675054" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>The Early Years: Marshmallow Shooter Camp</title>
-      <description>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Have you ever wondered about the origins of Trash Day? Fourth grader Emery Gischler explains in his wacky origin story set - where else? - the North Pole! Featuring an interview with now fifth grader Emery!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">944</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[0dffe4984c4eed3a33494af9d219c27b]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT7137217120.mp3?updated=1510675054" length="0" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>The Early Years: Marshmallow Shooter Camp</title>
+    <description>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.
 Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Story Pirates Podcast features highlights from our weekly radio show on SiriusXM's Kids Place Live. Visit www.storypirates.org for more information on how you can bring Story Pirates Live to your school or town!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Wed, 02 Oct 2013 10:00:00 -0000</pubDate>
-      <itunes:title>The Early Years: Marshmallow Shooter Camp</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:author>Story Pirates</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f228951c-c3ef-11e7-9590-cf31fba28cdb/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Marshmallow Shooter Camp by Christopher DeWeerd</itunes:subtitle>
-      <itunes:summary>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.
+    <pubDate>Tue, 02 Oct 2012 11:00:00 GMT</pubDate>
+    <itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">The Early Years: Marshmallow Shooter Camp</itunes:title>
+    <itunes:episodeType xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">full</itunes:episodeType>
+    <itunes:episode xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1</itunes:episode>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Story Pirates</itunes:author>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/f228951c-c3ef-11e7-9590-cf31fba28cdb/image/sp_skull_1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" />
+    <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Marshmallow Shooter Camp by Christopher DeWeerd</itunes:subtitle>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.
 Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Story Pirates Podcast features highlights from our weekly radio show on SiriusXM's Kids Place Live. Visit www.storypirates.org for more information on how you can bring Story Pirates Live to your school or town!
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.</p><p>Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Story Pirates Podcast features highlights from our weekly radio show on SiriusXM's Kids Place Live. Visit <a href="http://www.storypirates.org">www.storypirates.org</a> for more information on how you can bring Story Pirates Live to your school or town!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>766</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[0ef0c85a1a079caeddaf06406e8b642b]]></guid>
-      <enclosure url="https://traffic.megaphone.fm/GLT2062163258.mp3?updated=1510347571" length="0" type="audio/mpeg"/>
-    </item>
-
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>In Story Pirates first podcast, Lee Overtree (Artistic Director, Story Pirates) and Mindy Thomas (Host, Absolutely Mindy on Sirius XM's Kids Place Live) present "Marshmallow Shooter Camp," a weird adventure into the syrupy world of a marshmallowy camp! Featuring an interview with six year old author Christopher DeWeerd.</p><p>Story Pirates is a group of world-class actors, comedians, improvisers and musicians who adapt stories written by kids into sketch comedy and musical theater. Story Pirates Podcast features highlights from our weekly radio show on SiriusXM's Kids Place Live. Visit <a href="http://www.storypirates.org">www.storypirates.org</a> for more information on how you can bring Story Pirates Live to your school or town!</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]></content:encoded>
+    <itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">766</itunes:duration>
+    <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+    <guid isPermaLink="false"><![CDATA[0ef0c85a1a079caeddaf06406e8b642b]]></guid>
+    <enclosure url="https://traffic.megaphone.fm/GLT2062163258.mp3?updated=1510347571" length="0" type="audio/mpeg" />
+  </item>
   </channel>
 </rss>
